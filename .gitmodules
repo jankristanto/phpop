@@ -1,3 +1,6 @@
 [submodule "cake-master"]
 	path = cake-master
 	url = https://github.com/cakephp/cakephp.git
+[submodule "app/Vendor/twitteroauth"]
+	path = app/Vendor/twitteroauth
+	url = https://github.com/abraham/twitteroauth.git
